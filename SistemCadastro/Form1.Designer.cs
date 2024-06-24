@@ -159,10 +159,12 @@
             // radioM
             // 
             this.radioM.AutoSize = true;
+            this.radioM.Checked = true;
             this.radioM.Location = new System.Drawing.Point(12, 34);
             this.radioM.Name = "radioM";
             this.radioM.Size = new System.Drawing.Size(73, 17);
             this.radioM.TabIndex = 11;
+            this.radioM.TabStop = true;
             this.radioM.Text = "Masculino";
             this.radioM.UseVisualStyleBackColor = true;
             // 
